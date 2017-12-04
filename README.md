@@ -1,2 +1,2 @@
-# Calculadora-B-sica
+# CalculadoraBasica
 Exemplo de uma calculadora básica em Android.

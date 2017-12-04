@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="botaoPadrao">74dp</dimen>
+    <dimen name="botaoPadrao2">46dp</dimen>
+    <dimen name="left">18dp</dimen>
+    <dimen name="widV">267</dimen>
+    <dimen name="heiV">62dp</dimen>
+    <dimen name="Widvvv">267dp</dimen>
+    <dimen name="hei">80dp</dimen>
+</resources>
